@@ -1,7 +1,7 @@
-package io.hexlet;
+tpackage io.hexlet;
 
 public class Two {
     public static void greeting() {
-        System.out.println("Java for Brave");
+        System.out.println("Hexlet");
     }
 }
